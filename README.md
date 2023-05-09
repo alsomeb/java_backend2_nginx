@@ -1,3 +1,3 @@
 # docker_nginx
 
-See exercise instructions
+Labb docker Nackademin
